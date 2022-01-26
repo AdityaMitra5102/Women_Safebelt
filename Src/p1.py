@@ -25,6 +25,8 @@ def sendEmail(eml, Name, SSID):
     r=requests.get('http://20.106.248.18/',params=payload)
     print(r.text)
 
+
+   
 if __name__=='main':
     app.run(debug=True)
 
