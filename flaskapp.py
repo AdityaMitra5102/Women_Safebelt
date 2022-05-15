@@ -1,9 +1,9 @@
 import smtplib
 from flask import *
 
-senderacc="adityamitra5102devacc@gmail.com"
-senderpass="AccountPassword1"
-server='smtp.gmail.com'
+senderacc=""
+senderpass=""
+server=''
 port=587
 
 app = Flask(__name__)
