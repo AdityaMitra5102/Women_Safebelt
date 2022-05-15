@@ -6,9 +6,9 @@ String nm="Anisha";
 String eml="ghoshanisha2002@gmail.com";
 
 
-const char* ssid = "AnishaPC"; //Enter SSID
-const char* password = "abcdefghij"; //Enter Password
-String ip="52.142.53.158"; //Change to correct IP
+const char* ssid = "A"; //Enter SSID
+const char* password = ""; //Enter Password
+String ip=""; //Change to correct IP
 void setup()
 { 
   Serial.begin(9600);
